@@ -1,0 +1,17 @@
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\bin\Release\workFiling.exe
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\bin\Release\workFiling.pdb
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Form1.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Form10.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Form11.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Form2.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Form3.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Form4.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Form5.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Form6.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Form7.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Form8.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Form9.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.Properties.Resources.resources
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.csproj.GenerateResource.Cache
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.exe
+C:\Users\kc\Documents\Visual Studio 2010\Projects\workFiling\workFiling\obj\x86\Release\workFiling.pdb
